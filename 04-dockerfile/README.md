@@ -132,7 +132,7 @@ Get-ChildItem
 ### Você deverá encontrar um arquivo chamado Dockerfile e, possivelmente, um arquivo HTML, como index.html.
 Se a pasta não existir, volte à raiz do repositório e confira os nomes das pastas com Get-ChildItem.
 
-### Etapa 2 — Entenda o Dockerfile
+# Etapa 2 — Entenda o Dockerfile
 ``` 
 FROM nginx:alpine
 
@@ -153,7 +153,7 @@ EXPOSE 80
 Get-Content Dockerfile
 ```
 
-# Etapa 4 — Crie sua página personalizada
+# Etapa 3 — Crie sua página personalizada
 
 ### No arquivo index.html
 ``` 

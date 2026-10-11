@@ -198,7 +198,7 @@ docker build -t minha-web:1.0 .
 docker images
 ```
 
-### Etapa 5 — Crie e execute o contêiner
+# Etapa 5 — Crie e execute o contêiner
 ### Antes de executar, vamos evitar o problema de porta ocupada que você encontrou anteriormente.
 Confira se a porta 8080 está sendo utilizada:
 ``` 
